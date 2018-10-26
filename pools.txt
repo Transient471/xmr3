@@ -49,4 +49,4 @@
  *    cryptonight_heavy
  */
 
-"currency" : "monero7",
+"currency" : "CryptoNightV7",
